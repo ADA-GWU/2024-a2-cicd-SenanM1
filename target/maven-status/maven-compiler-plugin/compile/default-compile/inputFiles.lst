@@ -1,0 +1,9 @@
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/JpademoApplication.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/entity/Course.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/controller/StudentController.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/entity/Student.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/repository/CourseRepository.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/repository/StudentRepository.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/exception/GlobalExceptionHandler.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/service/StudentService.java
+/Users/senanm/Desktop/Courses (ADA)/webtest/src/main/java/ada/edu/demo/webtest/exception/StudentException.java
